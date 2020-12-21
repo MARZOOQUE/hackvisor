@@ -1,0 +1,103 @@
+.client{
+    height: 1000px;
+    width: 100%;
+    background:#f5f5f5;
+}
+
+.border{
+    height: 537px;
+    width: 100%;
+    background:linear-gradient(293.89deg, #CA5F20 -3%, #E7A54D 65.26%, #FAE6A9 102.69%);
+    display: flex;
+    justify-content: right;
+}
+
+.border svg{
+    margin: auto;
+    margin-right: 0;
+}
+
+.client .clihead{
+    margin: auto;
+    margin-top: -450px;
+    font-size: 45px;
+    font-weight:bold;
+    padding-left:35%;
+}
+
+.mainwrap{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.namebox{
+    border-radius: 15px;
+    height:462px;
+    width:350px;
+    background-color: #fff;
+    
+    margin-top: 120px;
+}
+
+.namebox img{
+    margin: auto;
+    padding-top:50px;
+    display: flex;
+    justify-content: center;
+    height: 86px;
+    width:86px;
+    padding-bottom:30px;
+}
+
+.namebox p{
+    margin: 0;
+    padding:0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color:rgb(112, 108, 108);
+    padding-bottom:30px;
+}
+
+hr{
+    width:20%;
+    background: #F49418;
+    border: #F49418;
+    margin-left:40%;
+    height: 2px;
+    margin-bottom:30px;
+} 
+
+.namebox .name{
+    color: black;
+    font-weight: bold;
+}
+
+.gcontainer{
+    margin:auto ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.gcontainer .i1{
+    height: 84px;
+    width: 250px;
+}
+
+.gcontainer .i2{
+    height: 90px;
+    width: 140px;
+}
+
+.gcontainer .i3{
+    height: 180px;
+    width: 240px;
+}
+
+.gcontainer .i4{
+    height: 90px;
+    width: 300px;
+}

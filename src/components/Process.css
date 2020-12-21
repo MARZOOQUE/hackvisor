@@ -1,0 +1,46 @@
+.process{
+    margin: auto;
+    height: 606px;
+    background-image: linear-gradient(293.89deg, #CA5F20 -3%, #E7A54D 65.26%, #FAE6A9 102.69%) ;
+}
+
+.ph{  
+    margin-top: -600px;
+    padding-left: 45% ;
+    padding-top: 50px;
+    font-size: 40px;
+}
+.pro{
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    margin-top:150px;
+}
+
+.process .box{
+    background: #fff;;
+    border-radius: 15px;
+    margin-right: 120px;
+    height: 265px;
+    width: 280px;
+}
+
+.box img{
+    margin: auto;
+    margin-top: -100px;
+}
+
+.box p{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.box .p2{
+    margin-top: 106px;
+ }
+
+.box .p3{
+   margin-top: 30px;
+}

@@ -1,0 +1,36 @@
+.about{
+    margin: auto;
+    background: linear-gradient(293.89deg, #CA5F20 -3%, #E7A54D 65.26%, #FAE6A9 102.69%);;
+    height: 600px;
+}
+
+.abhead{
+    margin-top: auto;
+    margin-left: 100px;
+    padding-top: 100px;
+    font-size: 45px;
+    font-weight: bold;
+}
+.para{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.para1{
+    margin-left: 100px;
+}
+.para1 p{
+    margin-bottom:50px;
+}
+.para img{
+    height: 260px;
+    width: 500px;
+}
+hr{
+    width:55%;
+    background: #000;
+    border: black;
+    text-align:left;
+    margin-left:0;
+    height: 1px;
+} 

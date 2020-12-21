@@ -1,0 +1,55 @@
+.services{
+    margin:auto;
+    background-color: #f5f5f5;
+
+
+}
+
+.services .head{
+    margin: 0%;
+    padding-top:100px;
+    padding-bottom:90px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size:45px
+    
+}
+
+.dsply{
+    
+   margin: auto;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    
+    
+}
+.dsply img{
+    height: 95px;
+    width: 105px;
+    
+}
+.wrap{
+    margin:0;
+    padding: 0;
+    display: flex;
+    margin-bottom: 140px;
+    
+}
+
+.d1{
+    margin: auto;
+    margin-left:20px ;
+}
+.d1 h2{
+    margin: 0;
+    
+}
+
+.d1 p{
+    margin: 0;
+    margin-top: 2px;
+}
+
